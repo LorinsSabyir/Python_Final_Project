@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2025-11-25 17:04:52",
+        "type": "income",
+        "amount": 1000.0,
+        "unit_price": 1000.0,
+        "quantity": 1,
+        "item_name": "N/A",
+        "note": ""
+    },
+    {
+        "date": "2025-11-25 17:09:48",
+        "type": "expense",
+        "amount": 12323.0,
+        "unit_price": 12323.0,
+        "quantity": 1,
+        "item_name": "sabon",
+        "note": ""
+    },
+    {
+        "date": "2025-11-25 17:13:30",
+        "type": "income",
+        "amount": 10000.0,
+        "unit_price": 10000.0,
+        "quantity": 1,
+        "item_name": "salary",
+        "note": ""
+    }
+]
