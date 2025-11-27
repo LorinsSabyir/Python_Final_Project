@@ -1,4 +1,4 @@
-# 📊 Personal Expence Tracker App (Python GUI)
+# 📊 Personal Expense Tracker App (Python GUI)
 
 **Group Final Project para sa subject na IT415 - Application Development and Emerging Technologies**
 
